@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-05d9c2f410d24c0161cc.js","a6dce04d17fd1f8ac40535b9c380ea05"],["/app-8834e286ff853669d11c.js","01eb432f594246dfd64c997ad1aba7b3"],["/app-d162dc6cf5f75d62649b.js","d320b0522e30a2f94aae59a498ab6dce"],["/commons-1edeb7369fac884e0b9d.js","55bea14cb249b12bdc263d53f0c2d649"],["/commons-c039c926de3f7c08fe32.js","3c56bd96b808cedeb593d08c42a57f0b"],["/index.html","1bcec7c2dd15109bf444baeba865cb8e"],["/manifest.webmanifest","ba7cd9b5ca7df0dbbe4ee1fbf85ecb9b"],["/offline-plugin-app-shell-fallback/index.html","994aec415fcda607005df5278bc63539"]];
+var precacheConfig = [["/wiki/app-05d9c2f410d24c0161cc.js","a6dce04d17fd1f8ac40535b9c380ea05"],["/wiki/app-8834e286ff853669d11c.js","01eb432f594246dfd64c997ad1aba7b3"],["/wiki/app-d162dc6cf5f75d62649b.js","d320b0522e30a2f94aae59a498ab6dce"],["/wiki/app-da03a95704a059d7f77a.js","9158736a9dbae1d3204cad280938fcb5"],["/wiki/commons-1edeb7369fac884e0b9d.js","9af51c4480ce3c27e4e0655735046bfa"],["/wiki/commons-c039c926de3f7c08fe32.js","3c56bd96b808cedeb593d08c42a57f0b"],["/wiki/index.html","60ac927acc9a4bc803ee4e8b4e34d1c3"],["/wiki/manifest.webmanifest","ba7cd9b5ca7df0dbbe4ee1fbf85ecb9b"],["/wiki/offline-plugin-app-shell-fallback/index.html","c61dcf2db835284c59d9adbe86f1d851"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
