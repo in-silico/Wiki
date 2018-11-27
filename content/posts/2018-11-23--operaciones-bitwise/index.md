@@ -1,7 +1,7 @@
 ---
 title: "Tipos de datos y operaciones Bitwise"
 subTitle: Operaciones Bitwise
-category: "CP III"
+category: "C++"
 cover: bitwise.png
 ---
 
